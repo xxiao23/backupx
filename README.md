@@ -9,4 +9,4 @@ BackupX allows you to manage backups for your MySQL and Postgres DBs easily.
 - Restore a backup to a live DB.
 
 ### Design
-![backupX](https://user-images.githubusercontent.com/756243/65656367-76c20b80-dfd4-11e9-9592-3cf3bfda488d.png)
+![backupX](https://user-images.githubusercontent.com/756243/65657371-fc938600-dfd7-11e9-825b-5095502d1b1d.png)
